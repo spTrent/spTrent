@@ -1,18 +1,18 @@
 # Привет, я Артём 👋
 
-Учусь в МАИ (ПМИ), интересуюсь Машинным обучением и анализом данных.
+Учусь в МАИ (ПМИ), интересуюсь Машинным обучением и Анализом данных.
 
 ## Проекты
 
-**[Weather Forecasting Service](https://github.com/spTrent/Time_Series_Weather_Forecasting)** — сервис прогноза погоды: XGBoost, Optuna, FastAPI, Docker
+**[Weather Forecasting Service](https://github.com/spTrent/Time_Series_Weather_Forecasting)** — сервис прогноза погоды по 6 городам России на горизонт 7 дней
 
-**[EDA Agent](https://github.com/spTrent/EDA_Agent)** — агент для автоматического exploratory data analysis с tool calling
+**[EDA Agent](https://github.com/spTrent/EDA_Agent)** — агент для автоматического EDA с tool calling
 
-**[Student Depression Dataset](https://github.com/spTrent/Student_Analysis)** — разбор датасета как кейс на диагностику качества данных
+**[Student Depression Dataset](https://github.com/spTrent/Student_Analysis)** — анализ датасета с выводом о синтетическом произхождении данных
 
 ## Стек
 
-`Python` `FastAPI` `PostgreSQL` `Redis` `JWT` `XGBoost` `Optuna` `Docker`
+`Python` `FastAPI` `PostgreSQL` `Redis` `JWT` `Docker`
 
 ## Контакты
 

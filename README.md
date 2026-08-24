@@ -1,16 +1,20 @@
-## Hi there 👋
+# Привет, я Артём 👋
 
-<!--
-**spTrent/spTrent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Учусь в МАИ (ПМИ), интересуюсь Машинным обучением и анализом данных.
 
-Here are some ideas to get you started:
+## Проекты
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Weather Forecasting Service](https://github.com/spTrent/Time_Series_Weather_Forecasting)** — сервис прогноза погоды: XGBoost, Optuna, FastAPI, Docker
+
+**[EDA Agent](https://github.com/spTrent/EDA_Agent)** — агент для автоматического exploratory data analysis с tool calling
+
+**[Student Depression Dataset](https://github.com/spTrent/Student_Analysis)** — разбор датасета как кейс на диагностику качества данных
+
+## Стек
+
+`Python` `FastAPI` `PostgreSQL` `Redis` `JWT` `XGBoost` `Optuna` `Docker`
+
+## Контакты
+
+Telegram: @spTrent (https://t.me/spTrent)
+Email: artemrazumovvv@gmail.com

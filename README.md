@@ -16,6 +16,6 @@
 
 ## Контакты
 
-Telegram: @spTrent (https://t.me/spTrent)
+Telegram: @amrazumov (https://t.me/amrazumov)
 
 Email: artemrazumovvv@gmail.com

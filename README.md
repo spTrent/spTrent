@@ -50,7 +50,7 @@ ML-сервис прогнозирования температуры для 6 �
 - Разрабатывал ИИ-агента на Python.
 - Команда победила в кейсе «Агрегатор мессенджеров».
 
-## 🛠 Технологии
+## Технологии:
 
 **Языки:** Python, SQL, C++
 
@@ -62,7 +62,7 @@ ML-сервис прогнозирования температуры для 6 �
 
 **Инструменты:** pytest, uv, ruff, mypy, pre-commit
 
-## 📫 Контакты
+## Контакты:
 
 - **Telegram:** [@amrazumov](https://t.me/amrazumov)
 - **Email:** [artemrazumovvv@gmail.com](mailto:artemrazumovvv@gmail.com)
